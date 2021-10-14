@@ -1,0 +1,10 @@
+C:\MY DOC\CSIS-4050-001\assignment\AS1ODolotii\AS1ODolotii\bin\Debug\AS1ODolotii.exe.config
+C:\MY DOC\CSIS-4050-001\assignment\AS1ODolotii\AS1ODolotii\bin\Debug\AS1ODolotii.exe
+C:\MY DOC\CSIS-4050-001\assignment\AS1ODolotii\AS1ODolotii\bin\Debug\AS1ODolotii.pdb
+C:\MY DOC\CSIS-4050-001\assignment\AS1ODolotii\AS1ODolotii\obj\Debug\AS1ODolotii.csprojAssemblyReference.cache
+C:\MY DOC\CSIS-4050-001\assignment\AS1ODolotii\AS1ODolotii\obj\Debug\AS1ODolotii.CarListingsForm.resources
+C:\MY DOC\CSIS-4050-001\assignment\AS1ODolotii\AS1ODolotii\obj\Debug\AS1ODolotii.Properties.Resources.resources
+C:\MY DOC\CSIS-4050-001\assignment\AS1ODolotii\AS1ODolotii\obj\Debug\AS1ODolotii.csproj.GenerateResource.cache
+C:\MY DOC\CSIS-4050-001\assignment\AS1ODolotii\AS1ODolotii\obj\Debug\AS1ODolotii.csproj.CoreCompileInputs.cache
+C:\MY DOC\CSIS-4050-001\assignment\AS1ODolotii\AS1ODolotii\obj\Debug\AS1ODolotii.exe
+C:\MY DOC\CSIS-4050-001\assignment\AS1ODolotii\AS1ODolotii\obj\Debug\AS1ODolotii.pdb
